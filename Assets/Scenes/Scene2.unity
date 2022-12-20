@@ -241,7 +241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d416d9c67de4934c873dd77b6657b24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Url: https://www.google.com
+  Url: https://www.google.com.ua
   status: {fileID: 3597275749074555129}
 --- !u!1 &1257165921
 GameObject:
@@ -531,7 +531,37 @@ PrefabInstance:
     - target: {fileID: 4874803045751557559, guid: f0bd6d373e3feec4f9bb2a5d1cc62d3b,
         type: 3}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5347602247637277240, guid: f0bd6d373e3feec4f9bb2a5d1cc62d3b,
+        type: 3}
+      propertyPath: m_AnchorMax.x
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5347602247637277240, guid: f0bd6d373e3feec4f9bb2a5d1cc62d3b,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5347602247637277240, guid: f0bd6d373e3feec4f9bb2a5d1cc62d3b,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5347602247637277240, guid: f0bd6d373e3feec4f9bb2a5d1cc62d3b,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5347602247637277240, guid: f0bd6d373e3feec4f9bb2a5d1cc62d3b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 123
+      objectReference: {fileID: 0}
+    - target: {fileID: 5347602247637277240, guid: f0bd6d373e3feec4f9bb2a5d1cc62d3b,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 260
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f0bd6d373e3feec4f9bb2a5d1cc62d3b, type: 3}
